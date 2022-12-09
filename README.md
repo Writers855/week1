@@ -6,7 +6,7 @@ Project to show candidate understands how to use semantic CSS styling and to cor
 
 A link to the deployed website is here.
 
-https://writers855.github.io/week1/#search-engine-optimization
+[https://writers855.github.io/week1IanM/]
 
 
 
